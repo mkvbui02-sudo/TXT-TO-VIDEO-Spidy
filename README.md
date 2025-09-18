@@ -32,7 +32,7 @@
 ### 🚀 Deploy to Render
 
 #### **1-Click Deploy:**
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://dashboard.render.com/web/new)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mkvbui02-sudo/TXT-TO-VIDEO-Spidy)
 
 #### **Manual Setup on Render:**
 ```bash
